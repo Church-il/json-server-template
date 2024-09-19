@@ -3,7 +3,14 @@
     {}
   ],
   "chargingSessions": [
-    {}
+    {
+      "id": "1",
+      "vehicleId": "ABC123",
+      "chargingAmountKES": 123,
+      "chargingDuration": 10,
+      "startTime": "2024-09-17T23:10:01.048Z",
+      "endTime": "2024-09-17T23:10:11.125Z"
+    }
   ],
 
   "vehicles": [
